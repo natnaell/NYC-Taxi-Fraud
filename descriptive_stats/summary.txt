@@ -1,0 +1,1312 @@
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.81221942933037
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 695.7386681223143457
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 5.95724136983863
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 8.53179441924424
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+  stddev_samp   
+----------------
+ 13772.70328140
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 5705.53124106189
+(1 row)
+
+
+Month: 1
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.32881722476167
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 595.3290071425517713
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 1.97575251163782
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp   
+-----------------
+ 4.5273386339464
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 352.537509941544
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.54941734602472
+(1 row)
+
+
+Month: 2
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.48128238156874
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 616.0201243496687684
+(1 row)
+
+avg(trip_distance)
+
+       avg       
+-----------------
+ 1.9820483300361
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.62204639495028
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 366.093825795060
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.50655701490153
+(1 row)
+
+
+Month: 3
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.60445639845977
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 622.2908819654027114
+(1 row)
+
+avg(trip_distance)
+
+       avg       
+-----------------
+ 2.0093992168954
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.69464787863302
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 370.784246430076
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.51067234746382
+(1 row)
+
+
+Month: 4
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.79070331605068
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 646.6160267438858903
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.03148620915544
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.81788057623372
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 393.562940792489
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.55137318619934
+(1 row)
+
+
+Month: 5
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.96694544598853
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 669.7199784685925464
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.05204757399445
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.93819445091747
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 417.787395846209
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.58603626284948
+(1 row)
+
+
+Month: 6
+
+avg(fare_amount)
+
+       avg       
+-----------------
+ 9.9855458534284
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 669.9131030325755283
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.03649452065601
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.91353671853367
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 411.800461209195
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.48767410962559
+(1 row)
+
+
+Month: 7
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.82503585866537
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 648.6611949636730866
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.02710305403224
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.81208146106367
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 400.204974093603
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.48426434363549
+(1 row)
+
+
+Month: 8
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.85005470701036
+(1 row)
+
+avg(trip_time_in_secs)
+
+          avg          
+-----------------------
+ 1258.2424179333115717
+(1 row)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+Month: 9
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 10.0182264601114
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 673.7557034551361450
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.04311558203301
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.94554004584495
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 420.883904681183
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp   
+-----------------
+ 1.4920217898583
+(1 row)
+
+
+Month: 10
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 10.0028491971985
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 676.6790406041092184
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 2.02531768259971
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.90244607216019
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 417.210686652157
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.47998722025066
+(1 row)
+
+
+Month: 11
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.96055120501187
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 676.0353081072080999
+(1 row)
+
+avg(trip_distance)
+
+       avg       
+-----------------
+ 2.0040104844458
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 4.92687720128905
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 426.286876484288
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.48203718417204
+(1 row)
+
+
+Month: 12
+
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.97492372437569
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 681.7082561952906092
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 1.99296496875632
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp   
+-----------------
+ 5.0622658278702
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+   stddev_samp    
+------------------
+ 440.811405512050
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 1.50783126957665
+(1 row)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+
+
+2013--
+
+avg(fare_amount)
+
+avg(trip_time_in_secs)
+
+avg(trip_distance)
+
+stddev_samp(fare_amount)
+
+stddev_samp(trip_time_in_secs)
+
+stddev_samp(trip_distance)
+

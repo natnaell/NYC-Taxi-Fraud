@@ -1,0 +1,42 @@
+avg(fare_amount)
+
+       avg        
+------------------
+ 9.81221942933037
+(1 row)
+
+avg(trip_time_in_secs)
+
+         avg          
+----------------------
+ 695.7386681223143457
+(1 row)
+
+avg(trip_distance)
+
+       avg        
+------------------
+ 5.95724136983863
+(1 row)
+
+stddev_samp(fare_amount)
+
+   stddev_samp    
+------------------
+ 8.53179441924424
+(1 row)
+
+stddev_samp(trip_time_in_secs)
+
+  stddev_samp   
+----------------
+ 13772.70328140
+(1 row)
+
+stddev_samp(trip_distance)
+
+   stddev_samp    
+------------------
+ 5705.53124106189
+(1 row)
+
